@@ -13,3 +13,4 @@ The solutions that can be found here are solely mine and they are not perfect, b
 Every challange lies in a folder of it's own with a `challange.md` file containing the challange it self and a `solution.[ext]` file which contains my solution in the language of choice.
 
 ### Author - Andrej Szalma | CompSci @ University of Aberdeen
+### Contest - https://www.showcode.io/unicode/
