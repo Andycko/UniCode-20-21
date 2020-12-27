@@ -1,6 +1,6 @@
-### #BEGIN_E2E_COMMS#
+## #BEGIN_E2E_COMMS#
 
-# Greetings ShowCode unit #233452.
+### Greetings ShowCode unit #233452.
 
 I am Devvie. Over recent units of time I have been tasked with moving my physical forms using commands given to me by my controllers. I can process 3 commands:
 
