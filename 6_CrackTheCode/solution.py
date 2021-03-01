@@ -1,6 +1,6 @@
 # This challange was basically a ceasar cipher but shifting only letters
 
-# motivated by - https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.htm
+# inspired by - https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.htm
 
 def cipher(input, key):
     result = ""
